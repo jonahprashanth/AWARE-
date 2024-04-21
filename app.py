@@ -5,7 +5,7 @@ from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="AWARE",
                    layout="wide",
-                   page_icon="🧑‍⚕️")
+                   page_icon="👨🏻‍⚕️")
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
