@@ -22,7 +22,7 @@ with st.sidebar:
 
 
 if selected == 'Questionnaire Analysis':
-    st.title('Questionaire Analysis using ML')
+    st.title('Questionaire Analysis')
     
     name = st.text_input("Name of the Pateint")
     c1,c2=st.columns(2)
