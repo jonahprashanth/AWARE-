@@ -1,0 +1,2 @@
+0 autistic
+1 non_autistic
