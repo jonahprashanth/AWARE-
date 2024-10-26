@@ -1,0 +1,2 @@
+Not included in this folder
+please refer https://www.kaggle.com/datasets/cihan063/autism-image-data and download.
